@@ -3,7 +3,8 @@
     1. git clone https://github.com/GajenderI/flask-quick-start.git
     2. pip3 install requirements.txt
     3. python3 decode.py 
-> To tun in a separate env follow [steps](steps.md)  
+    
+> To run in a separate env follow [steps](steps.md)  
 
     +---------+------------------------------+-----------------------+
     | Methods |             Urls             |            Actions    |
