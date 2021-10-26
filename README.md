@@ -12,9 +12,11 @@
     +---------+------------------------------+-----------------------+
   
 ### Request headers  
-  Content-Type: application/x-www-form-urlencoded; charset=UTF-8
-  Form-data: image: BASE64ENCODED
+  
+>  Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+>  Form-data: image: BASE64ENCODED
   
 ### Response headers
-  Content-Type: application/json  
+ 
+> Content-Type: application/json  
               
