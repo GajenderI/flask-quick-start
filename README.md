@@ -21,5 +21,5 @@
  
 > Content-Type: application/json  
 
-!(API Call image)[./apicall.png]
+![API Call image](./apicall.png)
               
