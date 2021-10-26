@@ -19,4 +19,6 @@
 ### Response headers
  
 > Content-Type: application/json  
+
+![API Call image](./apicall.png)
               

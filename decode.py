@@ -24,7 +24,7 @@ def decodeImage(img):
 @app.route('/ecapi/bcdecode', methods=['POST'])
 def BarcodeReader():
 
-    image_data = re.sub('^data:image/.+;base64,', '', request.form['theFile'])
+    image_data = re.sub('^data:image/.+;base64,', '', request.form['image'])
     im = Image.open(BytesIO(base64.b64decode(image_data)))
 
     detectedBarcodes = decodeImage(im)
