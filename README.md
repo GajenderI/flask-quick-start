@@ -2,6 +2,7 @@
 
   ```
     1. git clone https://github.com/GajenderI/flask-quick-start.git
+    2. [steps](./steps.md)
     2. pip3 install requirements.txt
     3. python3 decode.py 
   ```
